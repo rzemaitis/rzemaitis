@@ -2,7 +2,7 @@
 
 I'm an Astronomy PhD graduate from the University of Edinburgh (2023) with a passion for blending astronomy and software development. I currently work as a Senior Scientist and Software Developer on the Euclid space telescope's data processing pipeline, where I:
 
-- 🔭 Enhance image data processing. for images.
+- 🔭 Enhance image data processing.
 - 🐍 Develop robust Python solutions.
 - 🚀 Optimize DevOps CI/CD pipelines to streamline testing and deployment.
 - 🐳 Build Docker containers within CI/CD to ensure consistency and reproducibility across environments.
